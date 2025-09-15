@@ -26,6 +26,9 @@ crack-tip detection, segmentation, and tracking in additively manufactured polym
    git clone https://github.com/SaiGuru24/CrackTip-Detection-AM-Polymers.git
    cd CrackTip-Detection-AM-Polymers
 2. Install dependencies
+### RAFT model weights
+The RAFT small model weights are already included in this repository (`models/raft-small.pth`).  
+No manual download is required.
 
 Make sure you are using Python 3.11. Then install all dependencies from the requirements file:
    ```bash
