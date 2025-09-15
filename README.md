@@ -16,7 +16,6 @@ crack-tip detection, segmentation, and tracking in additively manufactured polym
   - `RAFT_inference.ipynb` → Crack-tip tracking pipeline
 - `data/` → Placeholder (datasets not included)
 - `models/` → Pretrained weights or download links
-- `docs/` → Documentation and diagrams
 - `requirements.txt` → Python dependencies
 - `README.md` → Project overview
 
