@@ -40,6 +40,12 @@ PyTorch + Torchvision
 OpenCV
 NumPy, Matplotlib, Scikit-learn
 Jupyter Notebook
+## Dataset Notice
+This repository includes only a **demo dataset** to illustrate the workflow.  
+The **full dataset is not uploaded** due to GitHub storage limitations.  
+
+For access to the complete dataset, please contact:  
+**saiguruteja24@gmail.com**
 
 3. Launch Jupyter
 4. Run the notebooks
